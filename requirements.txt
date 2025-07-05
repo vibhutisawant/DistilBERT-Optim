@@ -1,0 +1,3 @@
+transformers 
+datasets
+tensorflow-model-optimization --quiet
